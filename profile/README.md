@@ -16,9 +16,12 @@
 
 A TARIQ ajuda empresas a modernizar sistemas que viraram freio: planilhas que ninguém entende, automações frágeis, ferramentas no-code e low-code que já não aguentam o volume, sistemas legados que ninguém quer tocar.
 
+Usamos inteligência artificial para acelerar o trabalho e criar automações que realmente aumentam a eficiência da operação.
+
 - **Modernização de sistemas**, respeitando o que já funciona
 - **Migração em etapas**, sem parar a operação
 - **Integração** entre sistemas
+- **Automações com inteligência artificial**, mais eficientes, com menos retrabalho e mais controle
 
 ## Casos demonstrativos
 
