@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#053D2E"/>
+      <stop offset="1" stop-color="#075E45"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#g)"/>
+  <path d="M-10 250 C 200 205, 380 290, 640 245 S 1080 200, 1290 238" fill="none" stroke="#0EA371" stroke-width="5"/>
+  <text x="640" y="130" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#FFFFFF" letter-spacing="2">TARIQ</text>
+  <text x="640" y="185" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#9FF0CF">Evolua sem parar a operação.</text>
+</svg>
